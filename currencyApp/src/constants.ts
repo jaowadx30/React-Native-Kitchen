@@ -1,0 +1,44 @@
+export const currencyByTaka: Currency[] =[
+    {
+        name:'DOLLAR',
+        value:0.0091,
+        flag:'🇺🇸',
+        symbol:'$'
+    },
+    {
+        name:'EURO',
+        value:0.0084,
+        flag:'🇪🇺',
+        symbol:'€'
+    },
+    {
+        name:'INDIAN RUPEE',
+        value:0.76,
+        flag:'🇮🇳',
+        symbol:'₹'
+    },
+    {
+        name:'YUAN',
+        value:0.066,
+        flag:'🇨🇳',
+        symbol:'¥'
+    },
+    {
+        name:'YEN',
+        value:1.38,
+        flag:'🇯🇵',
+        symbol:'¥'
+    },
+    {
+        name:'RIYAL',
+        value:0.034,
+        flag:'🇸🇦',
+        symbol:'ر. س'
+    },
+    {
+        name:'RINGGIT',
+        value:0.04317,
+        flag:'🇲🇾',
+        symbol:'RM'
+    },
+]
